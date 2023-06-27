@@ -1,18 +1,9 @@
-# WhatsUpShop
-Nice and simplified online store CMS based on PHP and MySQL
+preview : 
 
-PLEASE NOTE: It is improved version of WhatsUpOnlineStore, the previous version of this program in this link: https://github.com/habibieamrullah/WhatsUpOnlineStore, which to get started, first you need to configure your database credential by editing dbcon.php. In previous version, database credential configuration was inside config.php, but here I've managed to create separated dbcon.php file for it.
+![Screenshot (850)](https://github.com/ahmdirvn/codeigniter-website-shopping-whatsup-based-/assets/98068506/0c136a87-bd36-40a7-a57b-28dfa210c4c3)
+![Screenshot (849)](https://github.com/ahmdirvn/codeigniter-website-shopping-whatsup-based-/assets/98068506/d072bbd0-27f9-41f4-aa33-70b2d032b7da)
 
-## About WhatsUpShop
- 
-This PHP software is a lightweight and simple CMS system that allows you to post products with pictures, description, pricing, quantity and options.
 
-It has easy to use Shopping cart, add to cart button and finally a WhatsApp checkout system to send the seller a notification about what product is being ordered with all the details needed.
+demo : 
 
-You can customize this online shop by visiting its settings page on its Admin panel, change theme color, etc.
-
-Watch this video to learn how to setup this online shop:
-
-https://youtu.be/NRy8SnLLpe4
-
-If you like this work, visit my YouTube channel, like and subscribe. If you have money to appreciate this work, please donate to: https://paypal.me/habibieamrullah
+https://ememmart.000webhostapp.com/
